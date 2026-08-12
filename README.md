@@ -1,12 +1,10 @@
-# SINTÉTICA LABS
+# S/NTÉTICA LABS
 
-> Repositório de formação em Cloud, DevOps, Platform Engineering e AI-assisted Operations.
-
-O **SINTÉTICA LABS** é um laboratório técnico criado para transformar conhecimento em competência operacional demonstrável.
+O **S/NTÉTICA LABS** é um laboratório técnico criado para transformar conhecimento em competência operacional demonstrável, focado em Cloud, DevOps, Platform Engineering e AI-assisted Operations.
 
 ---
 
-## 1. Objetivos
+## Objetivos
 
 Ao final do projeto, o objetivo é conseguir:
 
@@ -30,7 +28,7 @@ Ao final do projeto, o objetivo é conseguir:
 
 ---
 
-## 2. Modelo de profundidade
+## Modelo de profundidade
 
 Cada competência será classificada em quatro níveis.
 
@@ -43,7 +41,7 @@ Cada competência será classificada em quatro níveis.
 
 ---
 
-## 3. Arquitetura do laboratório
+## Arquitetura do laboratório
 
 O laboratório utiliza uma separação deliberada entre **workstation** e **ambiente de execução**.
 
@@ -65,7 +63,7 @@ O laboratório utiliza uma separação deliberada entre **workstation** e **ambi
                  │ Fedora Server   │
                  │   Bare Metal    │
                  │                 │
-                 │ SINTÉTICA LABS  │
+                 │ S/NTÉTICA LABS  │
                  └────────┬────────┘
                           │
                     02 em diante
@@ -106,9 +104,9 @@ KVM/QEMU será introduzido somente depois dos fundamentos de Linux e networking.
 
 ---
 
-## 4. Projeto principal
+## Projeto principal
 
-O SINTÉTICA LABS será construído como **um único projeto evolutivo**.
+O S/NTÉTICA LABS será construído como **um único projeto evolutivo**.
 
 Não serão criados diversos projetos pequenos e desconectados.
 
@@ -135,7 +133,7 @@ O objetivo é aprender a construir, executar, automatizar, observar e diagnostic
 
 ---
 
-## 5. Roadmap
+## Roadmap
 
 | Tema | Resultado principal |
 |---|---|---|
@@ -154,7 +152,7 @@ O objetivo é aprender a construir, executar, automatizar, observar e diagnostic
 
 ---
 
-## 6. Estrutura do repositório
+## Estrutura do repositório
 
 A estrutura evoluirá ao longo do programa.
 
@@ -211,7 +209,7 @@ sintetica-labs/
 
 ---
 
-## 7. Organização por mês
+## Organização por mês
 
 Cada diretório mensal deve responder a cinco perguntas:
 
@@ -236,7 +234,7 @@ Quando houver código compartilhado entre meses, ele poderá migrar para os dire
 
 ---
 
-## 8. Método de aprendizagem
+## Método de aprendizagem
 
 Cada assunto seguirá o ciclo:
 
@@ -262,7 +260,7 @@ Utilizar uma fonte principal e documentação oficial.
 
 Reproduzir o conceito em ambiente controlado.
 
-### SINTÉTICA LABS
+### S/NTÉTICA LABS
 
 Aplicar o conhecimento ao projeto.
 
@@ -310,11 +308,11 @@ Não registrar apenas:
 
 Registrar:
 
-> "Qual era o sintoma, quais hipóteses foram consideradas, quais evidências eliminaram as hipóteses e qual foi a causa-raiz."
+> "Qual era o sintoma, quais hipóteses foram consideradas, quais evidências eliminaram as hipóteses e qual foi a causa raiz."
 
 ---
 
-## 10. Incidentes
+## Incidentes
 
 Incidentes serão deliberadamente introduzidos no laboratório.
 
@@ -344,7 +342,7 @@ ou no diretório de troubleshooting correspondente ao mês.
 
 ---
 
-## 11. Runbooks
+## Runbooks
 
 Problemas recorrentes devem gerar runbooks.
 
@@ -380,7 +378,7 @@ O objetivo é começar a desenvolver uma mentalidade de operação repetível.
 
 ---
 
-## 12. Architecture Decision Records
+## Architecture Decision Records
 
 Decisões técnicas importantes devem ser registradas em:
 
@@ -420,7 +418,7 @@ Formato:
 
 ---
 
-## 13. Documentação de arquitetura
+## Documentação de arquitetura
 
 A arquitetura deverá evoluir ao longo do projeto.
 
@@ -434,7 +432,7 @@ Mac
  ▼
 Fedora Server
  │
- └── SINTÉTICA service
+ └── S/NTÉTICA service
 ```
 
 Posteriormente:
@@ -494,7 +492,7 @@ Os diagramas devem representar o estado real do projeto.
 
 ---
 
-## 14. Git workflow
+## Git workflow
 
 O projeto será versionado desde o primeiro dia.
 
@@ -525,7 +523,7 @@ chore:
 
 ---
 
-## 15. Segurança do repositório
+## Segurança do repositório
 
 Nunca versionar:
 
@@ -551,7 +549,7 @@ A segurança do repositório evoluirá posteriormente para:
 
 ---
 
-## 16. Recursos de estudo
+## Recursos de estudo
 
 Cada mês deverá possuir uma fonte principal.
 
@@ -636,7 +634,7 @@ Fontes prioritárias:
 
 ---
 
-## 17. Certificações
+## Certificações
 
 Certificações são complementares ao projeto.
 
@@ -669,7 +667,7 @@ Conhecimento superficial
 
 ---
 
-## 18. Carreira
+## Carreira
 
 ### Meses 1–3
 
@@ -707,7 +705,7 @@ A candidatura passa a fazer parte do processo de aprendizagem.
 
 ---
 
-## 19. Definition of Done do projeto
+## Definition of Done do projeto
 
 O SINTÉTICA LABS será considerado concluído quando for possível demonstrar:
 
@@ -769,7 +767,7 @@ Incidentes reais de laboratório documentados.
 
 ---
 
-## 20. Critério de maturidade
+## Critério de maturidade
 
 O projeto não será avaliado pelo número de tecnologias utilizadas.
 
@@ -795,9 +793,9 @@ Se essas perguntas puderem ser respondidas para uma competência dentro do níve
 
 ---
 
-## 21. Princípio do projeto
+## Princípio do projeto
 
-O SINTÉTICA LABS não é um tutorial.
+O S/NTÉTICA LABS não é um tutorial.
 
 Não é uma coleção de certificados.
 
@@ -827,7 +825,7 @@ Ao final dos 12 meses, o repositório deverá contar uma história:
 
 ---
 
-## 22. Roadmap resumido
+## Roadmap resumido
 
 ```text
 01 ─ Linux + Git
