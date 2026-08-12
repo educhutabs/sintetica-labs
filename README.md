@@ -135,7 +135,7 @@ O objetivo é aprender a construir, executar, automatizar, observar e diagnostic
 
 ## Roadmap
 
-| Tema | Resultado principal |
+| Mês | Tema | Resultado |
 |---|---|---|
 | **01** | Linux + Git | Linux Operations Lab |
 | **02** | Networking + HTTP + Virtualização | Rede e primeira VM |
